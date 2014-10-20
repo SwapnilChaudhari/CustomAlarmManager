@@ -9,7 +9,7 @@ Android app screens:
  
 ![](https://github.com/SwapnilChaudhari/CustomAlarmManager/blob/master/set_alarm_1.png)
 
-2. Alarms list screen 
+ 2. Alarms list screen 
 
   - Manage all alarms you have created.
 
