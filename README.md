@@ -3,13 +3,13 @@ CustomAlarmManager
 
 Android app screens:
 
- 1. Set alarm screen
+- 1 Set alarm screen
 
   - Drag your finger on digits and then select done to set alarm.
  
 ![](https://github.com/SwapnilChaudhari/CustomAlarmManager/blob/master/set_alarm_1.png)
 
- 2. Alarms list screen 
+- 2 Alarms list screen 
 
   - Manage all alarms you have created.
 
